@@ -1,0 +1,65 @@
+{
+  "nombre": "probetaaaaaaaa11111",
+  "fecha": "2026-11-17T17:17:30",
+  "probeta": {
+    "ancho_mm": 13.0,
+    "espesor_mm": 3.0,
+    "area_mm2": 39.0,
+    "L0_mm": 20.0
+  },
+  "video": {
+    "L0_px": 476.7636978213716,
+    "mm_por_px": 0.04194950263913209,
+    "ruido_deformacion_pct": 0.026607664200494218,
+    "resolucion": [
+      2028,
+      1520
+    ],
+    "fps_objetivo": 30,
+    "exposicion_us": 33013,
+    "ganancia": 13.473684310913086,
+    "roi1": [
+      1042,
+      1370,
+      102,
+      102
+    ],
+    "roi2": [
+      1006,
+      888,
+      116,
+      114
+    ],
+    "refrescos_plantilla": [
+      3,
+      2
+    ]
+  },
+  "celda": {
+    "archivo_calibracion": "calibracion_celda.json",
+    "fecha_calibracion": "2026-11-09T17:39:13",
+    "cuentas_por_N": 445.966888853836,
+    "tara_cuentas": -117438.36,
+    "convencion": "traccion de la celda = positivo (signo de la calibración)"
+  },
+  "actuador": {
+    "sentido_que_estira": "E",
+    "velocidad": 0.5,
+    "duty": 0.5,
+    "frecuencia_pwm_hz": 1000,
+    "rampa_s": 0.5
+  },
+  "limites": {
+    "F_proteccion_celda_N": 23535.96,
+    "def_max": 10.0,
+    "sin_limite_de_fuerza_de_ensayo": true
+  },
+  "resultado": {
+    "motivo_fin": "rotura de la probeta",
+    "duracion_s": 24.765911987000436,
+    "cuadros": 737,
+    "fps_real": 29.758645689561096,
+    "F_pico_abs_N": 1971.828810564926,
+    "rotura_t_s": 23.73562238299928
+  }
+}

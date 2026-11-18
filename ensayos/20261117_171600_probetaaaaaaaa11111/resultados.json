@@ -1,0 +1,30 @@
+{
+  "fuente_datos": "lecturas nativas de fuerza (246) con deformación interpolada",
+  "signo_aplicado": 1.0,
+  "area_mm2": 39.0,
+  "sigma_max_MPa": 50.559717948717946,
+  "F_max_N": 1971.829,
+  "deformacion_en_max_pct": 8.490179933052303,
+  "E_MPa": 491.1275188907145,
+  "E_GPa": 0.4911275188907145,
+  "E_R2": 0.9681196306702088,
+  "E_n_puntos": 76,
+  "toe_deformacion_pct": 0.0,
+  "toe_recta_pct": -1.4589727179948018,
+  "E_tangente_MPa": 834.7364781400529,
+  "E_tangente_ventana_pct": [
+    1.8053876516479606,
+    2.213160223515962
+  ],
+  "fluencia_offset_MPa": 46.846305246896264,
+  "fluencia_offset_def_pct": 9.738521757588682,
+  "rotura_def_pct": 13.47156806203824,
+  "rotura_sigma_MPa": 46.474666666666664,
+  "fluencia_pico_MPa": 50.559717948717946,
+  "fluencia_pico_def_pct": 8.490179933052303,
+  "calidad": {
+    "score_min": 0.343,
+    "edad_F_max_ms": 105.0,
+    "muestras": 246
+  }
+}
